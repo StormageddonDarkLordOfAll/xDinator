@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XDinator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XDinator_jar</output-path>
+    <root id="archive" name="XDinator.jar">
+      <element id="module-output" name="XDinator" />
+    </root>
+  </artifact>
+</component>
